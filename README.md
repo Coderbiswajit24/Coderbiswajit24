@@ -1,3 +1,8 @@
+<h1 align="center">Hello Everyone👋 I'm BISWAJIT SASMAL</h1>
+<h3 align="center">A Passionate Data Analyst Aspirant from India.</h3>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
+
 # 💫 About Me:
 🌟 I'm Currently Working On<br><br>Enhancing my skills in Power BI by creating dynamic dashboards and visualizations.<br><br>Building personal projects to analyze real-world datasets and solve business problems.<br><br>Developing my expertise in Python for Data Analysis and exploring advanced libraries like Scikit-learn for basic Machine Learning.<br><br><br>🤝 I'm Looking to Collaborate On<br><br>Projects involving data cleaning, visualization, and storytelling.<br><br>Business case studies where data-driven decision-making is key.<br><br>Open-source data analysis initiatives or hackathons to gain practical experience.<br><br><br>❓ I'm Looking for Help With<br><br>Real-world projects or datasets to practice solving business problems.<br><br>Guidance on optimizing SQL queries for better performance.<br><br>Networking opportunities with industry professionals in the field of Data Analytics.<br><br><br>📚 I'm Currently Learning<br><br>Power BI & Tableau for creating interactive dashboards.<br><br>Advanced SQL techniques like window functions and CTEs.<br><br>Exploring Statistics and Mathematics applications in data analysis.<br><br><br>🧐 Ask About Me<br><br>How I transitioned from a Mathematics graduate to an aspiring Data Analyst.<br><br>My passion for making data meaningful and actionable.<br><br>Tips on building strong fundamentals in Excel, SQL, and Python.<br><br><br>🎲 Fun Fact<br><br>I find joy in unraveling mysteries—whether it’s debugging code, solving a math puzzle, or watching a suspense thriller!
 
@@ -19,3 +24,4 @@
 [![](https://visitcount.itsvg.in/api?id=Coderbiswajit24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
